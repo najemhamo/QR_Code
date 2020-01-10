@@ -1,2 +1,4 @@
 # Flask QR Code
- Creating QR Codes and download them online1
+ Creating QR Codes and download them online!
+ 
+ Download qrcode
