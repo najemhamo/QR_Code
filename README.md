@@ -4,6 +4,8 @@
 # Installation
 pip install Flask-QRcode
 
-# Static
-
+# static	
+CSS Design
+# templates
+HTML 
 
